@@ -1,4 +1,4 @@
-# LwIP NAT ROUTER with user interface
+# LwIP ESP8266 WIFI EXTENDER with user interface
 
 This is modified NAT ROUTER made by Martin-Ger https://github.com/martin-ger/lwip_nat_arduino <br>
 <br>
